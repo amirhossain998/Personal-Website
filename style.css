@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.top-banner{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.full-name{
+    color: green;
+}
+.biography-area{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.latest-work{
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.image img{
+    width: 30%;
+    float: left;
+}
+p{
+    text-align: justify;
+}
+.bottom-area{
+    background-image: url(footer-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+section{
+    height: 400px;
+    padding-bottom: 200px;
+}
+.half-width img{
+    width: 85%;
+}
+.main-button{
+    background-image: linear-gradient(45deg, red, black);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+}
+.find-me{
+    background-color: violet;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.hard-work{
+    text-align: center;
+}
+.latest-center{
+    text-align: center;
+}
+.image{
+    margin-left: 10%;
+}
+
